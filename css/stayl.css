@@ -7,8 +7,11 @@
         }
         
         body {
-            font-family: 'Courgette', cursive;
-            font-family: 'Sansita Swashed', cursive;
+           font-family: 'Lato', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Smooch Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
         }
         
         .container {
